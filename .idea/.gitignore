@@ -9,4 +9,5 @@
 
  ../database/
  ../config/
-
+**/*.iml
+.gradle/
